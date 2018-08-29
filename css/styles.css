@@ -1,0 +1,14 @@
+a
+{
+	color: #2B303B !important;
+}
+
+@font-face {
+    font-family: quicksand;
+    src: url("../public/Quicksand_Light.otf");
+}
+
+body
+{
+  font-family: quicksand;
+}
