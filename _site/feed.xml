@@ -1,4 +1,6 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.8.3">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2018-08-28T21:43:18-03:00</updated><id>http://localhost:4000/</id><title type="html">りﾑ刀</title><subtitle>𝙻𝚎𝚊𝚛𝚗𝚎𝚛. </subtitle><entry><title type="html">𝕴𝖓𝖋𝖊𝖗𝖓𝖔 by D A N T̵E̷not so Brown</title><link href="http://localhost:4000/gamedev/ld42.html" rel="alternate" type="text/html" title="𝕴𝖓𝖋𝖊𝖗𝖓𝖔 by D A N T̵E̷not so Brown" /><published>2018-08-28T00:00:00-03:00</published><updated>2018-08-28T00:00:00-03:00</updated><id>http://localhost:4000/gamedev/ld42</id><content type="html" xml:base="http://localhost:4000/gamedev/ld42.html">&lt;h2 id=&quot;introduction&quot;&gt;INTRODUCTION&lt;/h2&gt;
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.8.3">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2018-08-28T21:51:39-03:00</updated><id>http://localhost:4000/</id><title type="html">りﾑ刀</title><subtitle>𝙻𝚎𝚊𝚛𝚗𝚎𝚛. </subtitle><entry><title type="html">𝕴𝖓𝖋𝖊𝖗𝖓𝖔 by D A N T̵E̷not so Brown</title><link href="http://localhost:4000/gamedev/ld42.html" rel="alternate" type="text/html" title="𝕴𝖓𝖋𝖊𝖗𝖓𝖔 by D A N T̵E̷not so Brown" /><published>2018-08-28T00:00:00-03:00</published><updated>2018-08-28T00:00:00-03:00</updated><id>http://localhost:4000/gamedev/ld42</id><content type="html" xml:base="http://localhost:4000/gamedev/ld42.html">&lt;link rel=&quot;stylesheet&quot; type=&quot;text/css&quot; href=&quot;../css/styles.css&quot; /&gt;
+
+&lt;h2 id=&quot;introduction&quot;&gt;INTRODUCTION&lt;/h2&gt;
 
 &lt;p&gt;Before we get into the &lt;em&gt;jiggity jig&lt;/em&gt; of the game, I wanted to present you with 90% of the conversations I had with my friends that played the game:&lt;/p&gt;
 
@@ -54,4 +56,4 @@
   &lt;li&gt;
     &lt;p&gt;&lt;a href=&quot;https://github.com/chiarld/ludumDare42&quot;&gt;Source&lt;/a&gt;&lt;/p&gt;
   &lt;/li&gt;
-&lt;/ul&gt;</content><author><name></name></author><category term="gamedev" /><summary type="html">INTRODUCTION</summary></entry></feed>
+&lt;/ul&gt;</content><author><name></name></author><category term="gamedev" /><summary type="html"></summary></entry></feed>
