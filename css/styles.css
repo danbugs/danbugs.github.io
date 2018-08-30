@@ -1,14 +1,24 @@
 a
 {
-	color: #E3701A !important;
+	color: ##051E71 !important; 
+	/*GREEN ADFF2F*/
+	/*ORANGE #E3701A*/
 }
 
 @font-face {
-    font-family: quicksand;
-    src: url("../public/Quicksand_Light.otf");
+	font-family: caviarDreams;
+    src: url("../public/CaviarDreams.ttf");
+/*	font-family: nusamd;
+    src: url("../public/nusamd.ttf");
+	font-family: secretCode;
+    src: url("../public/secrcode.ttf");	
+	font-family: austinWorth;
+    src: url("../public/Austin_Worth.ttf");
+  	font-family: quicksand;
+    src: url("../public/Quicksand_Light.otf");*/
 }
 
 body
 {
-  font-family: quicksand;
+  font-family: caviarDreams;
 }
