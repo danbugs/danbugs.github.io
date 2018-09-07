@@ -4,8 +4,6 @@ title:  "Git Tutorial"
 category: git
 ---
 
-#Git Tutorial
-
 ## Local
 
 First, let's download git [here](https://git-scm.com/downloads).
