@@ -141,6 +141,8 @@ An issue I see happening quite often is that the `HEAD` detaches from the master
 
 Problem fixed.
 
+---
+
 [^1]: Any place you see `<>` inside of code, that means you replace it with your own custom content.
 [^2]: You can get the commit id from `git log --oneline`. It should look something like this: `bd74f2c`.
 [^3]: Remember that staged content should be green.
