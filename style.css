@@ -4,7 +4,15 @@
 
 .header{
     background: transparent !important;
+    padding: 0;
     margin: 25px 25px;
+}
+
+.subheader{
+    border: 1px solid #c5c5c5;
+    padding: 10px;
+    border-radius: 20px;
+    text-align: center;
 }
 
 .footer{

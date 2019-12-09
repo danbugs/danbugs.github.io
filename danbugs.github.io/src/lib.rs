@@ -33,6 +33,7 @@ impl Component for Home{
             <>
             <Header/>
             <div class="container">
+                <h2 class="subheader">{"Things-I'm-Proud-Of-Timeline!"}</h2>
                 <ul class="timeline">
                     <TimelineElement 
                     title={"Earth Invaders"}
@@ -43,7 +44,7 @@ impl Component for Home{
                     <TimelineElement
                     title={"Cool Bandpass Filter"}
                     subtitle={"ReactJS + p5JS"}
-                    text={"This is a bandpass filter I made for my Digital Signal Processing class' using ReactJS and p5JS."}
+                    text={"This is a bandpass filter I made for my Digital Signal Processing class."}
                     link1={(String::from("Check it out: "), String::from("https://danbugs.github.io/cool_bandpass_filter/"), String::from("here."))}
                     link2={(String::from("Code: "), String::from("https://github.com/danbugs/cool_bandpass_filter"), String::from("here."))}
                     /> 
@@ -72,7 +73,7 @@ impl Component for Home{
                     <TimelineElement
                     title={"This website!"}
                     subtitle={"Yew + CSS"}                        
-                    text={"Utilizing the Yew, a Rust framework for creating multi-threaded frontend apps, I made this website!"}
+                    text={"Using Yew, a Rust framework for creating multi-threaded frontend apps, I made this website!"}
                     link1={(String::from("Code: "), String::from("https://github.com/danbugs/danbugs.github.io"), String::from("here."))}
                     />                                     
                 </ul>
