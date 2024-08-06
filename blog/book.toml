@@ -8,6 +8,3 @@ default-theme = "rust"
 
 [build]
 build-dir = "../docs"
-
-[output.html]
-default-theme = "rust"
