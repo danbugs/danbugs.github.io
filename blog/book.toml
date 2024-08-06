@@ -7,7 +7,7 @@ title = "danbugs' blog"
 default-theme = "rust"
 
 [build]
-build-dir = "../static"
+build-dir = "../docs"
 
 [output.html]
 default-theme = "rust"
