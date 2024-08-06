@@ -1,0 +1,13 @@
+[book]
+authors = ["danbugs"]
+language = "en"
+multilingual = false
+src = "src"
+title = "danbugs' blog"
+default-theme = "rust"
+
+[build]
+build-dir = "../static"
+
+[output.html]
+default-theme = "rust"
